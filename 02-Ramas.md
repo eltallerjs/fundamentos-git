@@ -7,3 +7,5 @@
 `git checkout nombre_rama`
 
 # Enviar la rama a repositorio
+
+`git push origin nombre_rama`
