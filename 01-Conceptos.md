@@ -19,3 +19,11 @@ Sistema distribuido para control de versiones en software. Fue diseñado para co
 ## Enviar datos a repositorio.
 
 `git push origin master`
+
+## Esconder cambios
+
+`git stash`
+
+## Traer cambios de vuelta
+
+`git stash pop`
